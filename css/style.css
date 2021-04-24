@@ -56,13 +56,20 @@ body {
     }
 
     .Div {
+
         background-color: #FFFF00;
         color: black;
         position: absolute;
-        top: 20px;
-        right: 20px;
+        top: 10px;
+        right: 100px;
+        height: 60px;
+        
         margin-right: 110px;
         margin-top: 215px;
+        
+        text-align: right;
+
+
     }
 
 .Link {
